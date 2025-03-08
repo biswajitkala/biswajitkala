@@ -26,7 +26,7 @@
 🔹 **Analysis of House Prices in India** 🏡  
 - 📊 **Performed Exploratory Data Analysis (EDA)** on Kaggle's house pricing dataset  
 - 📈 Analyzed the effect of BHK count on house prices and visualized with histograms  
-- 🚀 **Check it out**: [GitHub Repo](#)
+- 🚀 **Check it out**: [GitHub Repo](https://github.com/biswajitkala)
 
 ---
 
@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/biswajit-kala-201121302/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="biswajeetkala199827@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/biswajitkala">
